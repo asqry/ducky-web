@@ -148,6 +148,7 @@ hr {
   background-color: var(--text-color);
   opacity: 0.5;
   border-radius: 10px;
+  margin-top: -10px;
 }
 
 .socials {
@@ -190,4 +191,8 @@ hr {
   .attributes {
     font-size: 1em;
   }
+}
+
+.reach-out {
+  font-size: 1.7em;
 }
