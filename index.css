@@ -45,6 +45,7 @@ body {
 }
 
 .heading {
+  padding: 10px;
   width: 75vw;
   /* height: 75vh; */
   display: flex;
